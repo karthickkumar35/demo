@@ -1,0 +1,17 @@
+@media (max-width:576px){
+.con{
+	padding:15px 15px;
+}
+	.hd{
+	width:100%;
+	height:auto;	
+}
+	.content{
+	width:100%;
+	height:auto;	
+}
+	.img{
+	width:100%;
+	height:auto;	
+}
+}
